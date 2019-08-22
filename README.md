@@ -1,5 +1,7 @@
 # drawtheweb
 Templates to collect drawings of the internet!
+You are free to make your own drawings, or ask people around you to make a drawing of the internet. I found that asking children is suprisingly interesting to get new inspiration in many directions.
+*Feel free to share your results!*
 
 ## about this project
 I asked children between 6 and 12 to draw the internet to better understand how future generations think about the internet today.
